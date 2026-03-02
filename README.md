@@ -55,19 +55,15 @@ APH/cluster_20/AF-Q08JA6-F1-model_v6/high_lddt_subjects/output
 
 Where:
 
-APH = ARG class, aminoglycoside phospho-transferases
-Contains all ARP structures for the ARG class and their Foldseek database, Foldseek cluster output, and queries for functional prediction.
+APH = ARG class, aminoglycoside phospho-transferases. Contains all ARP structures for the ARG class and their Foldseek database, Foldseek cluster output, and queries for functional prediction.
 
 cluster_20 = ARP structure cluster
 
-AF-Q08JA6-F1-model_v6 = representative protein accession for the structure cluster
-Contains ARP structure files, raw data from FoldMason MSTA and lDDT scores, and a Jupyter notebook for creation of high-lDDT ARP structures.
+AF-Q08JA6-F1-model_v6 = representative protein accession for the structure cluster. Contains ARP structure files, raw data from FoldMason MSTA and lDDT scores, and a Jupyter notebook for creation of high-lDDT ARP structures.
 
-high_lddt_subjects = high-lDDT ARP structures
-Contains high-lDDT ARP structure files, folder containing qARP structures (queries) from paper, raw data from pairwise Foldseek analysis, Jupyter notebook for one-class SVM training and functional prediction
+high_lddt_subjects = high-lDDT ARP structures. Contains high-lDDT ARP structure files, folder containing qARP structures (queries) from paper, raw data from pairwise Foldseek analysis, Jupyter notebook for one-class SVM training and functional prediction
 
-output = functional prediction results
-Contains functional predictions of qARP structures for the specific cluster in a .csv file and figures for visualisation
+output = functional prediction results. Contains functional predictions of qARP structures for the specific cluster in a .csv file and figures for visualisation
 
 ## Tested on Linux (Ubuntu 20.04)
 Foldseek and FoldMason also available for Mac
