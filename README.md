@@ -27,7 +27,7 @@ ARG-PASS (Antibiotic Resistance Gene - PAirwise Sequence vs Structure) uses stru
 
 ## Running ARG-PASS
 
-To run the ARG-PASS pipeline in full and reproduce figures from the manuscript go to [https://zenodo.org/records/18817276/](https://zenodo.org/records/18817276) and follow the README there. To simply run an example here follow instructions below:
+To run the ARG-PASS pipeline in full and reproduce figures from the manuscript go to [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18817276.svg)](https://doi.org/10.5281/zenodo.18817276) and follow the README there. To simply run an example here follow instructions below:
 
 Install all dependencies and download databases:
 ```bash
