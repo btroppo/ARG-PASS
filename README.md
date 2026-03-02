@@ -1,6 +1,6 @@
 ARG-PASS (Antibiotic Resistance Gene - PAirwise Sequence vs Structure) uses structurally conserved regions of AlphaFold protein structures encoded by ARGs to predict new ARGs. Pre-print available: https://www.biorxiv.org/content/10.1101/2025.10.01.679039v1
 
-<img width="5944" height="3419" alt="Copy of Copy of Copy of Copy of bioinfo pipeline3" src="https://github.com/user-attachments/assets/a7adc442-4c48-4684-93c1-88add6c1dfca" />
+<img width="2972" height="1709" alt="Copy of Copy of Copy of Copy of bioinfo pipeline3 (1)" src="https://github.com/user-attachments/assets/ce3aab30-569c-41e5-8f8b-0e72e7129af5" />
 
 ## Requirements for ARG-PASS
 
