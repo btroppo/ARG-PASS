@@ -51,16 +51,16 @@ Data structured hierarchically as:
 ARG class → cluster → representative ARP structure → high_lddt ARP structures → output
 
 Example:
-class_B1_B2_BL/cluster_20/Q9RMI1/high_lddt_subjects/output
+APH/cluster_20/AF-Q08JA6-F1-model_v6/high_lddt_subjects/output
 
 Where:
 
-class_B1_B2_BL = ARG class, class B1-B2 beta-lactamases
+APH = ARG class, aminoglycoside phospho-transferases
 Contains all ARP structures for the ARG class and their Foldseek database, Foldseek cluster output, and queries for functional prediction.
 
 cluster_20 = ARP structure cluster
 
-Q9RMI1 = representative protein accession for the structure cluster
+AF-Q08JA6-F1-model_v6 = representative protein accession for the structure cluster
 Contains ARP structure files, raw data from FoldMason MSTA and lDDT scores, and a Jupyter notebook for creation of high-lDDT ARP structures.
 
 high_lddt_subjects = high-lDDT ARP structures
