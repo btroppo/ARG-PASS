@@ -29,16 +29,26 @@ ARG-PASS (Antibiotic Resistance Gene - PAirwise Sequence vs Structure) uses stru
 
 To run the ARG-PASS pipeline in full and reproduce figures from the pre-print go to [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18817276.svg)](https://doi.org/10.5281/zenodo.18817276) and follow the README there. To simply run an example here follow instructions below:
 
-Install all dependencies and download databases:
+Clone the repository and install structure alignment tools in a conda environment:
 ```bash
-# create conda environment and install foldseek
+git clone https://github.com/btroppo/ARG-PASS.git
+cd ARG-PASS
+
+# Create conda environment and install foldseek
 conda create -n argpass -c conda-forge -c bioconda foldseek python=3.9 jupyter
 conda activate argpass
 
 # Install pinned FoldMason version
 wget https://github.com/steineggerlab/foldmason/releases/download/2-7bd21ed/foldmason-linux-avx2.tar.gz
 tar xvzf foldmason-linux-avx2.tar.gz
-export PATH=$(pwd)/foldmason/bin/:$PATH
+
+# Add FoldMason to PATH permanently for this environment
+echo 'export PATH="$(pwd)/foldmason/bin/:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+# Verify installations
+foldseek --version
+foldmason --version
 
 # Install Python dependencies
 pip install -r requirements.txt
