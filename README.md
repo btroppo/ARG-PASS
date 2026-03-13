@@ -40,12 +40,8 @@ wget https://github.com/steineggerlab/foldmason/releases/download/2-7bd21ed/fold
 tar xvzf foldmason-linux-avx2.tar.gz
 export PATH=$(pwd)/foldmason/bin/:$PATH
 
-# Download and extract databases
-wget https://zenodo.org/records/18817276/files/ARP_and_high_lddt_ARP_structure_databases.tar.xz
-tar -xf ARP_and_high_lddt_ARP_structure_databases.tar.xz 
-
 # Install Python dependencies
-pip install -r ARP_and_high_lddt_ARP_structure_databases/requirements.txt
+pip install -r requirements.txt
 ```
 Then follow the Steps outlined in ARG-PASS/workflow.sh
 
