@@ -1,0 +1,16 @@
+sul1_high_lddt	sul1_high_lddt	1.007E+00	1.000E+00	1.000E+00	100.000	141	141	141
+sul1_high_lddt	sul2_high_lddt	9.925E-01	9.856E-01	9.856E-01	56.700	141	141	141
+sul1_high_lddt	sul3_high_lddt	9.948E-01	9.668E-01	9.876E-01	45.000	141	140	138
+sul1_high_lddt	sul4_high_lddt	9.765E-01	9.427E-01	9.695E-01	35.700	141	140	137
+sul4_high_lddt	sul4_high_lddt	1.007E+00	1.000E+00	1.000E+00	100.000	137	137	137
+sul4_high_lddt	sul3_high_lddt	9.770E-01	9.701E-01	9.632E-01	39.800	137	138	138
+sul4_high_lddt	sul2_high_lddt	9.806E-01	9.736E-01	9.466E-01	35.000	137	140	141
+sul4_high_lddt	sul1_high_lddt	9.765E-01	9.695E-01	9.427E-01	35.700	137	140	141
+sul3_high_lddt	sul3_high_lddt	1.007E+00	1.000E+00	1.000E+00	100.000	138	138	138
+sul3_high_lddt	sul2_high_lddt	9.994E-01	9.922E-01	9.713E-01	52.800	138	140	141
+sul3_high_lddt	sul1_high_lddt	9.948E-01	9.876E-01	9.668E-01	45.000	138	140	141
+sul3_high_lddt	sul4_high_lddt	9.770E-01	9.632E-01	9.701E-01	39.800	138	138	137
+sul2_high_lddt	sul2_high_lddt	1.007E+00	1.000E+00	1.000E+00	100.000	141	141	141
+sul2_high_lddt	sul1_high_lddt	9.925E-01	9.856E-01	9.856E-01	56.700	141	141	141
+sul2_high_lddt	sul3_high_lddt	9.994E-01	9.713E-01	9.922E-01	52.800	141	140	138
+sul2_high_lddt	sul4_high_lddt	9.806E-01	9.466E-01	9.736E-01	35.000	141	140	137
