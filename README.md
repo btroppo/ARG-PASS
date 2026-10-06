@@ -1,6 +1,13 @@
-ARG-PASS (Antibiotic Resistance Gene - PAirwise Sequence vs Structure) uses structurally conserved regions of AlphaFold protein structures encoded by ARGs to predict new ARGs. Pre-print available: https://www.biorxiv.org/content/10.1101/2025.10.01.679039v1
+ARG-PASS (Antibiotic Resistance Gene - PAirwise Sequence vs Structure) uses structurally conserved regions of AlphaFold protein structures encoded by ARGs to predict novel ARGs.
 
-<img width="1486" height="849" alt="Copy of Copy of Copy of Copy of bioinfo pipeline3 (5)" src="https://github.com/user-attachments/assets/e35435ae-2857-4b93-9b86-238818b937eb" />
+# ARG-PASS
+
+> **ARG-PASS v2.0 is in preparation.** It replaces the manual workflow below with a
+> command-line tool and two prediction modes. The code is available on the
+> [`v2.0-dev` branch](https://github.com/btroppo/ARG-PASS/tree/v2.0-dev) for testing;
+> it is not yet peer-reviewed and results shouldn't be cited pending publication.
+> This page documents v1.0, as published in Bartrop, L., Beauchemin-Lauzon, E., Grenier, F., Rodrigue, S., & Haraoui, L.-P. (2026). Conserved protein sequence-structure signatures identify antibiotic resistance genes from the human microbiome. Microbiome, 14(1), 218. https://doi.org/10.1186/s40168-026-02487-6
+.
 
 ## Requirements for ARG-PASS
 
