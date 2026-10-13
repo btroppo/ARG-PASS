@@ -2,13 +2,6 @@ ARG-PASS (Antibiotic Resistance Gene - PAirwise Sequence vs Structure) uses stru
 
 # ARG-PASS
 
-> **ARG-PASS v2.0 is in preparation.** It replaces the manual workflow below with a
-> command-line tool and two prediction modes. The code is available on the
-> [`v2.0-dev` branch](https://github.com/btroppo/ARG-PASS/tree/v2.0-dev) for testing;
-> it is not yet peer-reviewed and results shouldn't be cited pending publication.
-> This page documents v1.0, as published in Bartrop, L., Beauchemin-Lauzon, E., Grenier, F., Rodrigue, S., & Haraoui, L.-P. (2026). Conserved protein sequence-structure signatures identify antibiotic resistance genes from the human microbiome. Microbiome, 14(1), 218. https://doi.org/10.1186/s40168-026-02487-6
-.
-
 ## Requirements for ARG-PASS
 
 ### System tools
