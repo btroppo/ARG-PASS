@@ -7,10 +7,10 @@ candidate protein structures against conserved regions of antibiotic resistance 
 (ARP) structures using Foldseek, then predicts function with a one-class SVM trained on the
 sequence identity (seqID) versus TM-score distribution of each ARG class.
 
-> **This branch is ARG-PASS v2.0, not yet peer-reviewed.**
+> **ARG-PASS v2.0 is described in a preprint and is not yet peer-reviewed**
 > For the version accompanying the Microbiome paper, see the [`v1.0` tag](../../tree/v1.0)
 > or [`README_v1.0.md`](README_v1.0.md). v2.0 supersedes it and is described in
-> [ bioRxiv preprint ].
+> [preprint](https://doi.org/10.64898/2026.10.21.760772).
 
 ---
 
@@ -207,7 +207,10 @@ ARG-PASS/
 
 If you use ARG-PASS v2.0, please cite:
 
-> [bioRxiv]
+> Bartrop, L., Grenier, F., Bielawski, J., Rodrigue, S., & Haraoui, L.-P. (2026). 
+> ARG-PASS v2.0 expands global resistome surveillance to reveal previously unrecognized 
+> antibiotic resistance genes reaching the human gut (p. 2026.10.21.760772). bioRxiv. https://doi.org/10.64898/2026.10.21.760772
+
 
 For the original framework:
 
