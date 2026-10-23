@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+tmp/
+*_alignments.out
+test_results.csv
+example/output/
+.ipynb_checkpoints/

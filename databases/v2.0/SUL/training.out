@@ -1,0 +1,16 @@
+sul1_conserved	sul1_conserved	1.007E+00	1.000E+00	1.000E+00	100.000	152	152	152
+sul1_conserved	sul2_conserved	9.751E-01	9.122E-01	9.684E-01	79.300	152	145	143
+sul1_conserved	sul3_conserved	9.506E-01	8.708E-01	9.440E-01	65.900	152	144	140
+sul1_conserved	sul4_conserved	9.034E-01	8.187E-01	8.911E-01	46.500	152	146	139
+sul2_conserved	sul2_conserved	1.007E+00	1.000E+00	1.000E+00	100.000	143	143	143
+sul2_conserved	sul1_conserved	9.751E-01	9.684E-01	9.122E-01	79.300	143	145	152
+sul2_conserved	sul3_conserved	9.495E-01	9.235E-01	9.429E-01	72.700	143	143	140
+sul2_conserved	sul4_conserved	9.029E-01	8.667E-01	8.905E-01	49.300	143	146	139
+sul3_conserved	sul3_conserved	1.007E+00	1.000E+00	1.000E+00	100.000	140	140	140
+sul3_conserved	sul2_conserved	9.495E-01	9.429E-01	9.235E-01	72.700	140	143	143
+sul3_conserved	sul1_conserved	9.506E-01	9.440E-01	8.708E-01	65.900	140	144	152
+sul3_conserved	sul4_conserved	8.712E-01	8.477E-01	8.535E-01	45.500	140	147	139
+sul4_conserved	sul4_conserved	1.007E+00	1.000E+00	1.000E+00	100.000	139	139	139
+sul4_conserved	sul2_conserved	9.029E-01	8.905E-01	8.667E-01	49.300	139	146	143
+sul4_conserved	sul1_conserved	9.034E-01	8.911E-01	8.187E-01	46.500	139	146	152
+sul4_conserved	sul3_conserved	8.712E-01	8.535E-01	8.477E-01	45.500	139	147	140
